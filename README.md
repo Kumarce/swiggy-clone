@@ -16,7 +16,7 @@ A Swiggy-inspired food delivery web application built using React.js and Tailwin
 - JavaScript
 
 ## 🌐 Live Demo
-(Add after deployment)
+https://swiggy-clone-beta-gules.vercel.app/
 
 ## 📂 GitHub Repo
 https://github.com/Kumarce/swiggy-clone
