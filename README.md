@@ -1,24 +1,25 @@
 <<<<<<< HEAD
-# swiggy-clone
-A responsive Swiggy-inspired food delivery web application built using React.js and Tailwind CSS, featuring dynamic routing and live API integration to display real-time restaurant data.
-
-
 # Swiggy Clone 🍔
 
 ## 📌 Description
 A Swiggy-inspired food delivery web application built using React.js and Tailwind CSS. It uses live API data and client-side routing to provide a dynamic and responsive user experience.
 
 ## 🚀 Features
-- 🔄 Live API integration
-- 🔀 Client-side routing (React Router)
-- 📱 Fully responsive design
-- ⚡ Fast and dynamic UI
-- 🚫 CORS handled using proxy
+- Live API integration
+- Dynamic restaurant listing
+- Routing using React Router
+- Responsive UI
 
-## 🛠️ Tech Stack
-- React.js
+## 🛠 Tech Stack
+- React
 - Tailwind CSS
-- React Router
+- JavaScript
+
+## 🌐 Live Demo
+(Add after deployment)
+
+## 📂 GitHub Repo
+https://github.com/Kumarce/swiggy-clone
 =======
 # React + Vite
 
